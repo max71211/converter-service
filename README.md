@@ -7,12 +7,12 @@ Service Allow to convert YAML file to OpenMetric format
 
 Run
 ------
-make run
+- `make run` - run service locally
 
 Build
 ------
-make build 
-make build-all
+- `make build` - build binary file for current OS
+- `make build-all` - build many binary files
 
 Configuration
 ------------
