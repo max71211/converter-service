@@ -1,4 +1,4 @@
-Test task simple YAML to OpenMetrics format converter
+Simple YAML to OpenMetrics format converter
 ===============
 
 Description
